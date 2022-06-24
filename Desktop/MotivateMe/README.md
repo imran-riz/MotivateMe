@@ -1,5 +1,6 @@
-To build the desktop version of the MotivateMe client application I used JavaFX.
+#MotivateMe
 
+To build the desktop version of the MotivateMe client application I used JavaFX.
 
 The icon images used in the application were obtained from Google Material Icons:
 https://fonts.google.com/icons?icon.set=Material+Icons
