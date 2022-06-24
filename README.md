@@ -1,5 +1,5 @@
 # MotivateMe
-A client application that makes use of the MotivationWeb web service to display motivational quotes.
+A desktop and mobile client application that makes use of the MotivationWeb web service to display motivational quotes.
 
 
 
