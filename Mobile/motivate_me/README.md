@@ -1,16 +1,11 @@
 # motivate_me
 
-A new Flutter project.
+The mobile client application that makes use of the MotivationWeb web service was built using Flutter. This is my first Flutter project that I worked on my own having learnt it to a certain extent over a few weeks.
 
-## Getting Started
+The fonts used are from Google Fonts:
+https://fonts.google.com/
 
-This project is a starting point for a Flutter application.
+The background image used in the application was obtained from Pexels.com:
+https://www.pexels.com/photo/snow-covered-mountain-2086620/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The icon for the application was made using Adobe Express.
