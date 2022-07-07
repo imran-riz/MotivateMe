@@ -19,7 +19,7 @@ class DataAccess {
   static Future<List<Quote>> _getAllQuotesFromServer() async {
   
     try {
-      Response response = await get(Uri.parse("http://10.0.2.2:8080/motivate/me/quotes/all")).timeout(const Duration(seconds: 15)) ;
+      Response response = await get(Uri.parse("http://softwarepulse.org:8085/motivate/me/quotes/all")).timeout(const Duration(seconds: 15)) ;
 
       List dataList = jsonDecode(response.body) ;
 
