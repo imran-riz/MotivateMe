@@ -1,5 +1,5 @@
 # MotivateMe
-A desktop and mobile client application that makes use of the MotivationWeb web service to display motivational quotes.
+A desktop and mobile client application that makes use of the [MotivationWeb](https://github.com/Desperate-Developers/MotivationWeb) web service to display motivational quotes. The client applications also offer search functionality.
 
 ## Desktop client application
 ![](https://github.com/imran-2003/MotivateMe/blob/main/Screenshots/desktop_home_page.png)
