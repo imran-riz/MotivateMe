@@ -1,6 +1,6 @@
 # motivate_me
 
-The mobile client application that makes use of the MotivationWeb web service was built using Flutter. This is my first Flutter project that I worked on my own having learnt it to a certain extent over a few weeks.
+The mobile client application that makes use of the [MotivationWeb](https://github.com/Desperate-Developers/MotivationWeb) web service was built using Flutter. This is my first Flutter project that I worked on my own having learnt it to a certain extent over a few weeks.
 
 The fonts used are from Google Fonts:
 https://fonts.google.com/
