@@ -1,5 +1,8 @@
 # MotivateMe
-A desktop and mobile client application that makes use of the [MotivationWeb](https://github.com/Desperate-Developers/MotivationWeb) web service to display motivational quotes. The client applications also offer search functionality.
+A desktop and mobile client application that makes use of the [MotivationWeb](https://github.com/Desperate-Developers/MotivationWeb) web service to display motivational quotes. The client applications also offer search functionality. 
+
+The desktop application was built using the JavaFX framework and the mobile app was built using Flutter.
+
 
 ## Desktop client application
 ![](https://github.com/imran-2003/MotivateMe/blob/main/Screenshots/desktop_home_page.png)
